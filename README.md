@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jotavictorpc
-- 👀 I’m interested em desenvolver mais conhecimentos front-end
-- 🌱 I’m currently learning HTML5 e CSS3
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 J Victor Pessoa Cavalcante. Moro em Delmiro Gouveia - AL. 300km de Maceió, aproximadamente
+- 👀 Já tenho conhecimento básico de HTML5 e CSS3. Conhecimento adquirido através do curos Curso em Video
+- 🌱 Estou aprendendo JS para Front-end
+- 📫 Contato: 82 - 9.9660-7708. Instagram pessoal - @jotavictorpc.
+- A procura de um estágio de desenvolvedor junior.
 
 <!---
 jotavictorpc/jotavictorpc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
